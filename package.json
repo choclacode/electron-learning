@@ -1,0 +1,14 @@
+{
+  "name": "electron-tuts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Saqib",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.1.1"
+  }
+}
